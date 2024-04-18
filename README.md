@@ -1,1 +1,1 @@
-# My-firts-chartJS
+# My-first-chartJS
